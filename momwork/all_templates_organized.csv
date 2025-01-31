@@ -1,0 +1,313 @@
+iteration,id,juris,workflow,status,name,global
+0,610173b7d8972d09493ea0c7,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - Details by Name with Amount Paid,True
+1,610176f6f16e400950e5a68f,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}, {'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Option Ledger,True
+2,610e89fa97dd3108aec1dce7,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Continuance'],word,Shareholders Resolutions - Pre-Continuance In,True
+3,610e8c4497dd3108aec1dd00,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Dissolve'],word,Directors Resolutions - Voluntary Dissolution,True
+4,610e8dd89cf93b08b529326e,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Amendments'],word,Shareholders Resolutions - Consolidation,True
+5,6119879c77f7d408ad05a138,"[{'country': 'Canada', 'name': 'Quebec - Canada', 'region': 'Quebec'}, {'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Share transactions'],word,Registre des transferts,True
+6,6272e11ee6b8157b73b186fa,[],[],word,managersAnnualsUS,True
+7,62754f7d5bb73a15bc531027,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Amendments'],word,Action in Lieu of Directors and Shareholders - Amendment to Articles re Shares,True
+8,62f12ed1f2947e0a6c414eb2,[],"['Share transactions', 'Shareholders']",word,Shareholder Register (with dates),True
+9,63209bb3dd92510a6550b132,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Organizational'],word,Shareholders Resolutions - Organizational,True
+10,610173b9f16e400950e5a35d,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Ownership Ledger - Outstanding Percentages Voting,True
+11,610e934c9cf93b08b5293375,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]","['General', 'Organizational']",word,Directors Resolutions - Borrowing,True
+12,61e60d2fac75d20962190722,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Formation'],word,5351E BCA  - Articles of Incorporation,True
+13,61f33b8842a8237748f520d4,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Registration Compliance', 'Registrations']",word,5281E EPCA - Appointment of Agent for Service,True
+14,6272e11ee6b8157b73b186f8,[],[],word,votingShareholdersOnlyAnnualsUS,True
+15,60fc2448b2cc64095735c968,[],"['Share transactions', 'Shareholders']",word,Unitholder Register,True
+16,60fc244eb2cc64095735c96a,[],"['Share transactions', 'Shareholders']",word,Unitholder Ledger,True
+17,610173b7f16e400950e5a351,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Owner Addresses Summary,True
+18,610e87b797dd3108aec1dc7a,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Change of principals'],word,Shareholders Resolutions - Remove Director,True
+19,610e8c8d97dd3108aec1dd0b,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Dissolve'],word,Shareholders Resolutions - Approve Voluntary Liquidation,True
+20,610e8c9797dd3108aec1dd10,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Dissolve'],word,Directors Resolutions - Subsidiary Approve Dissolution,True
+21,612d2447a1961408b7e16d0f,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Ownership Ledger - by Name (Outstanding Only),True
+22,60fc251db2cc64095735c974,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['Organizational', 'Summaries']",word,Property Register,True
+23,60febff8b2cc640957360ceb,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Principals'],word,Directors List,True
+24,610173b7f16e400950e5a354,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Ownership Ledger - by Name Outstanding Only (Detailed Basis),True
+25,610173b8f16e400950e5a35c,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Ownership Ledger - Outstanding Percentages,True
+26,614b8c515cf26e6b23125917,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}, {'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Option Vesting Schedule,True
+27,610e82169cf93b08b529310b,[],[],word,votingShareholderResTitle,True
+28,610e8c9397dd3108aec1dd0d,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Dissolve'],word,Directors Resolutions - Parent Approve Dissolution of Sub,True
+29,61144d490ad0d908b0b39d28,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Ownership Ledger - by ID (Detailed Basis),True
+30,60fc22c1a50e740950359957,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Committee Register,True
+31,61d3579cc625890a6dc1851e,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",[],word,articlesConfig,True
+32,61d37a1d3d721a0a74fa2a41,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",[],word,QCformConfig,False
+33,61f30d6742a8237748f4566c,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Formation', 'Registrations']",word,5292E BNA Register a Firm Name for General Partnership,True
+34,61f33d5fe08a9d780d4ae9d5,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Continuance'],word,5275E ONCA - Authorization to Continue Out of the NFPCA,True
+35,62278bfdfd1b730a50d11f33,[],"['Share transactions', 'Shareholders']",word,Members Register,True
+36,6273ef9d5a8f0c0a4970615b,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Organizational'],word,Special Action in Lieu of Directors and Shareholders - blank,True
+37,62754b4a5bb73a15bc530691,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Change of principals'],word,Special Action in Lieu of Directors Appointing Officers,True
+38,62754b4a1143b62c45610813,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Change of principals'],word,Special Action in Lieu of Shareholders Appointing Directors,True
+39,62ddb92f4122420a737ffb18,[],[],word,configFED,True
+40,62f12dc9f2947e0a6c414e9e,[],['Principals'],word,Manager Register,True
+41,62f2d4a619224b0a6bf290e7,[],['Share transactions'],word,Shareholder Register (detailed),True
+42,610173b7d8972d09493ea0c6,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - by Beneficial Owner,True
+43,60fec056b2cc640957360d08,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Directors List,True
+44,610176f7f16e400950e5a690,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}, {'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Option Ledger - Vesting Details,True
+45,611ab09277f7d408ad05faa2,[],['Summaries'],word,Entity Meeting Register,True
+46,610e8c5e97dd3108aec1dd08,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Dissolve'],word,Shareholders Resolutions - Voluntary Dissolution (no property),True
+47,61f3111f42a8237748f49432,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Registration Compliance', 'Registrations']",word,5294E BNA - Register a Business Name for a Corporation,True
+48,6209bfc90e998e0963c8c7f7,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Formation'],word,5306E LPA - File a Declaration of a Limited Partnership,True
+49,63209e9a7a75480a6a488640,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Annual Compliance'],word,Shareholders Resolutions - Annual,True
+50,6325fa31757a750a5fcd8fc2,[],[],word,principalsConfigNL,True
+51,635081dc39a9d10d60039633,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Beneficial Ownership Register (with PII),True
+52,62e9872bda736f0a693cb5e5,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['Annual Compliance', 'Change of principals', 'Principals']",word,Resignation,True
+53,62f6b56e5d48300a6cdd731b,"[{'country': 'Canada', 'name': 'Canada (Federal)', 'region': 'Canada (Federal)'}]",['Organizational'],word,Bylaws CBCA,True
+54,61ec7eb1eada28095c18b41b,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Amendments', 'Change of Company Name']",word,5261E BCA - Articles of Amendment,True
+55,6209bfc80e998e0963c8c7f5,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Amendments', 'Change of Company Name', 'Registration Compliance', 'Change of Address', 'Notice of Change']",word,5307E LPA - Declaration of Change of a Limited Partnership,True
+56,622279a608f0c11d6ac55d27,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Committee Register,True
+57,62754f7d936b1a55823b7f68,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Amendments'],word,Action in Lieu of Directors and Shareholders - Amend and Restate Articles,True
+58,62f1305e7e46ed0a69da5ed9,[],['Share transactions'],word,Shareholder Register (with address & certificates),True
+59,633b016be7e1680cfcc27e2c,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of Shared Address'],word,Directors Resolutions - Change of Records Office,True
+60,6273f106b3dc1436f201cd53,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['General', 'Organizational']",word,Special Action in Lieu of Managers - blank,True
+61,62fbf6777f70160a6f87d6e4,[],['Summaries'],word,Corporate Summary,True
+62,637b98d51d93640d820b2fbc,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Register of Ultimate Beneficial Owners,True
+63,638e6c9d233d4f0d5805d174,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Registre des dirigeants,True
+64,638e6f8d6490330d612e6634,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Registre des administrateurs,True
+65,611ae5dd77f7d408ad063618,[],[],word,managerSignatures,True
+66,6209bfc93ef164095c41f6f6,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Registration Compliance'],word,5290E BNA - Renew a Registration,True
+67,63208b3dd2f0320a6cd6414c,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Annual Compliance'],word,Directors Resolutions - Annual,True
+68,63335af0444c1e0a5f3a501d,[],['Annual Compliance'],word,Disclosure of Remuneration,True
+69,633b0525babd910cd9f50b44,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Trustees Register,True
+70,610173b9d8972d09493ea0cc,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - by State,True
+71,610173b9f16e400950e5a360,[],['Share transactions'],word,Ownership Ledger - Standard (Summary),True
+72,610e815c9cf93b08b52930e2,[],[],word,directorSignatures,True
+73,610e816a97dd3108aec1db7e,[],[],word,shareholderSignatures,True
+74,610e82239cf93b08b529310d,[],[],word,shareholderResTitle,True
+75,611ab24fc8004d08a622cea7,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Summaries'],word,UCC Filings,True
+76,62f6b4505d48300a6cdd7308,"[{'country': 'Canada', 'name': 'Alberta - Canada', 'region': 'Alberta'}]",['Organizational'],word,Bylaws ABCA,True
+77,633b00cce7e1680cfcc27e1c,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of Shared Address'],word,Directors Resolutions - Change of Registered Office,True
+78,639b3d58841cc40d77aa5986,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Organizational'],word,Directors Resolutions - Organizational,True
+79,633aff987ef98d0d05988d71,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of Shared Address'],word,Shareholders Resolutions - Change of Province of Registered Office,True
+80,635060b5fe653b0ceb02eade,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Transparency Register,True
+81,60fc2424a50e740950359965,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Central Securities Register,True
+82,60febffdb2cc640957360cef,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Directors List,True
+83,60fec013a50e74095035da87,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Officers List,True
+84,610173b9f16e400950e5a35e,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - Common Equivalents by Name,True
+85,610176f6d8972d09493ea61a,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}, {'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Option Ledger - Beneficial Owner,True
+86,610e816597dd3108aec1db7c,[],[],word,votingShareholderSignatures,True
+87,610e8c5997dd3108aec1dd04,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Dissolve'],word,Shareholders Resolutions - Voluntary Dissolution (property disposed),True
+88,610e8dbd97dd3108aec1dd18,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Amendments'],word,Shareholders Resolutions - Change of Capital,True
+89,611ab2df77f7d408ad05fbaf,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Summaries'],word,Intellectual Property List,True
+90,611ae5dcc8004d08a622f6cd,[],[],word,generalPartnerSignatures,True
+91,60fc234db2cc64095735c962,[],"['Share transactions', 'Shareholders']",word,Transfer Register,True
+92,60fc2505b2cc64095735c972,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Option Register,True
+93,60fec004a50e74095035da85,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Directors List,True
+94,61017330f16e400950e5a305,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Warrant Ledger - by Name,True
+95,61017330d8972d09493ea06d,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Warrant Ledger - Details,True
+96,610173b8d8972d09493ea0ca,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}, {'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Ownership Ledger (Options) - by Beneficial Owner,True
+97,610e820f97dd3108aec1db98,[],[],word,directorResTitle,True
+98,610e84f79cf93b08b5293174,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]","['Annual Compliance', 'Organizational']",word,Shareholders Resolutions - Waiver of Auditor,True
+99,62fbf5fc7f70160a6f87d6d4,[],['Summaries'],word,Corporate Summary,True
+100,6323a2fbfd59ec0a5c4b32b0,[],[],word,articlesConfigNB,True
+101,635081dc676e750d50ad68a0,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Beneficial Ownership Register (without PII),True
+102,60fec00cb2cc640957360cf1,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Principals'],word,Officers List,True
+103,610173b7d8972d09493ea0c5,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - Common Equivalents by ID,True
+104,61017331f16e400950e5a307,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Security Holder Report ,True
+105,610173b8d8972d09493ea0cb,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - by Name with Beneficial Owner and Address,True
+106,610e81749cf93b08b52930eb,[],[],word,nonVotingShareholderSignatures,True
+107,610e8c9c97dd3108aec1dd12,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Dissolve'],word,Assignment and Assumption Agreement,True
+108,610ec86f97dd3108aec1e202,"[{'country': 'Canada', 'name': 'British Columbia - Canada', 'region': 'British Columbia'}]",['Formation'],word,Articles of Incorporation,True
+109,613a6fbd744b640a7791fa34,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Ownership Ledger - Details by Name,True
+110,610176f6d8972d09493ea619,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}, {'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Option Ledger - Details,True
+111,610e93489cf93b08b5293372,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]","['General', 'Organizational']",word,Directors Resolutions - Banking,True
+112,611987ad77f7d408ad05a13c,"[{'country': 'Canada', 'name': 'Quebec - Canada', 'region': 'Quebec'}, {'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}, {'country': 'Canada', 'name': 'Canada (Federal)', 'region': 'Canada (Federal)'}]",['Summaries'],word,Sommaire corporatif,True
+113,61ec79e6eada28095c18b3d7,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Formation'],word,5270E ONCA - Articles of Incorporation,True
+114,62029af8d2d92509616b945d,"[{'country': 'Canada', 'name': 'Canada (Federal)', 'region': 'Canada (Federal)'}, {'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Registration Compliance', 'Initial Return']",word,5286E CIA Initial Return by an EP Fed. or Domestic or Foreign Non Share Corporation,True
+115,610173b8d8972d09493ea0c9,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - by Name,True
+116,610173b7f16e400950e5a35a,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - by ID (Short Basis),True
+117,610173baf16e400950e5a362,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]","['Share transactions', 'Summaries']",word,Ownership Summary,True
+118,610176f7d8972d09493ea61b,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Option Ledger - Grant Type,True
+119,610e8daf9cf93b08b5293263,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]","['Amendments', 'Change of Company Name']",word,Directors Resolutions - Name Change,True
+120,610e8dd39cf93b08b529326c,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Amendments'],word,Shareholders Resolutions - Subdivision,True
+121,610e90039cf93b08b52932d0,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Share transactions'],word,Receipt for Payment,True
+122,619be7f38eedad08b2d6782b,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Share transactions', 'Summaries']",word,Outstanding Stock Report,True
+123,62029af5d2d92509616b9456,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Formation'],word,5288E BNA - Register a Sole Proprietorship,True
+124,6209bfc83ef164095c41f6f5,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Dissolve'],word,5268E BCA - Articles of Dissolution,True
+125,62754f7db002b07331380591,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Amendments'],word,Action in Lieu of Directors and Shareholders - Amend and Restate Articles of Incorporation,True
+126,62029af531df32095a250aae,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Formation'],word,5280E EPCA - Application for a Licence for an Extra-Provincial Corporation,True
+127,631763ab2eda5c267041ff7c,[],['Principals'],word,Directors and Officers Register,True
+128,63239e1ecf041a0a6ee52da4,[],[],word,allConfigNS,True
+129,633b0638eb474e0cfac77033,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['General', 'Organizational']",word,Directors Resolutions - Determine Financial Year End,True
+130,638e6800958ea40d632d822b,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Registre PCI,True
+131,61e60d2edc9e9809691cd1df,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Formation', 'Organizational']",word,5260E BCA - Consent to Act as a First Director,True
+132,61edb35ee745c309636b11ed,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Merge / Amalgamate'],word,5262E BCA -  Articles of Amalgamation,True
+133,62029af831df32095a250ab3,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}, {'country': 'Canada', 'name': 'Canada (Federal)', 'region': 'Canada (Federal)'}]",['Notice of Change'],word,5286E CIA Notice of Change by an EP Fed. or Domestic or Foreign Non Share Corporation,True
+134,6209bfc83ef164095c41f6f3,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Continuance'],word,5264E BCA - Articles of Continuance,True
+135,62f12ad2f2947e0a6c414df9,[],['Principals'],word,Officer Register,True
+136,62f12f4cf2947e0a6c414eb6,[],['Share transactions'],word,Shareholder Register (with percentages),True
+137,62f6b3596db8930a68ee1933,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Organizational'],word,Bylaws OBCA,True
+138,631f6352218e4b0a71a0251d,"[{'country': 'Canada', 'name': 'British Columbia - Canada', 'region': 'British Columbia'}]",['Organizational'],word,Incorporator Resolutions,True
+139,633b06cad7839c0ce6d756a1,[],['Change of Shared Address'],word,Registered and Records Office Agreement,True
+140,6273f1051e0ee049a5915443,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['General', 'Organizational']",word,Special Action in Lieu of Managing Members - blank,True
+141,62c714654af5550a5f435499,[],['Share transactions'],word,Transfer Register (All Classes),True
+142,62ddb284ce01430a6c45d879,"[{'country': 'Canada', 'name': 'Prince Edward Island - Canada', 'region': 'Prince Edward Island'}]",[],word,configPEI,True
+143,61f1c66f42a8237748f22067,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['Annual Compliance', 'General']",word,Directors Resolutions - Set AGM Date,True
+144,6209bfc83ef164095c41f6f0,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Annual Compliance', 'Registration Compliance']",word,5308E LPA Renew an Ontario Limited Partnership Declaration,True
+145,6273ef9d1e0ee049a5915309,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Organizational'],word,Special Action in Lieu of Directors - blank,True
+146,62ea83d0177ddc0a65517d79,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['Change of principals', 'Principals']",word,Disclosure of Interest,True
+147,62f12fa608a4fc645669c209,[],['Share transactions'],word,Shareholder Register (Current),True
+148,63239fb78da1420a636e0ed1,[],[],word,articlesConfigNL,True
+149,6324a6287d24270a598bdf02,"[{'country': 'Canada', 'name': 'Newfoundland and Labrador - Canada', 'region': 'Newfoundland and Labrador'}]",[],word,changesConfigNL,True
+150,633b0202e7e1680cfcc27e3c,[],"['Share transactions', 'Principals']",word,Partner Register,True
+151,638e705daf53500d6bdae68b,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Annual Compliance'],word,Directors Resolutions - Appoint Officers and Accountant,True
+152,639b3d58750d790d8de675e9,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Annual Compliance'],word,Directors Resolutions - Financials and AGM dates,True
+153,6273ef9d65c1d338775c18db,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Organizational'],word,Special Action in Lieu of Shareholders - blank,True
+154,62f121d008a4fc645669ba87,[],"['Share transactions', 'Shareholders']",word,Shareholder Register (with transaction details),True
+155,6324a6277d24270a598bdf01,"[{'country': 'Canada', 'name': 'Newfoundland and Labrador - Canada', 'region': 'Newfoundland and Labrador'}]",[],word,annualConfigNL,True
+156,62f128b57e46ed0a69da5bc0,[],['Principals'],word,Director Register,True
+157,60fec020b2cc640957360cf3,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Principals'],word,Officers List,True
+158,60fec05cb2cc640957360d0a,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Principals'],word,Officers List,True
+159,61017330f16e400950e5a306,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Warrant Register,True
+160,610173b9f16e400950e5a35f,"[{'country': 'USA', 'name': 'USA', 'region': 'USA'}]",['Share transactions'],word,Ownership Ledger - by Type,True
+161,610e8a0297dd3108aec1dce9,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]",['Continuance'],word,Shareholders Resolutions - Pre-Continuance Out,True
+162,610e8db59cf93b08b5293265,"[{'country': 'Canada', 'name': 'Canada', 'region': 'Canada'}]","['Amendments', 'Change of Company Name']",word,Shareholders Resolutions - Name Change,True
+163,617c30fb23cc460967e82a5c,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Share transactions'],word,Ownership Ledger -  By Name (Outstanding Only),True
+164,61ed9406e745c309636b0cd1,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Amendments', 'Change of Company Name']",word,5271E ONCA - Articles of Amendment,True
+165,6209bfc80e998e0963c8c7f3,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]",['Continuance'],word,5265E BCA - Authorization to Continue Out of BCA,True
+166,6273f1055a8f0c0a497062a3,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['General', 'Organizational']",word,Special Action in Lieu of Members and Managers - blank,True
+167,62ed9dd119224b0a6bf23ae8,[],"['Share transactions', 'Shareholders']",word,Shareholder Ledger,True
+168,62f12c9c19224b0a6bf2467a,"[{'country': 'Canada', 'name': 'British Columbia - Canada', 'region': 'British Columbia'}]","['Formation', 'Organizational']",word,Incorporation Agreement,True
+169,63b5fa617fabcf61bae300fc,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Notice of Eligible Dividend,True
+170,63b4c282bac7f2404c6f2ebe,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Registre des actionnaire,True
+171,63b5a08b39752d020d3afbd6,[],['Share transactions'],word,Stated Capital Register,True
+172,63b8928ad06eaf0d64f47ee9,[],[],word,incorporatorSignatures,True
+173,655bd449f3fe95f5af6e8bbd,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Amendments', 'Change of principals', 'Change of Company Name']",word,Form 3 - Articles of Amendment,True
+174,639b5021841cc40d77aa5bcb,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of principals'],word,Directors Resolutions - Approve Officer Changes,True
+175,63b4c36ebac7f2404c6f2ecc,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Registre des actionnaires (detaille),True
+176,63b5a260c6a6175e22fb857a,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Share Certificate A Specimen,True
+177,63c9bc2101fb830d8a457ae5,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Directors Resolutions - Share Transfer,True
+178,63d4021556f1716019a1d160,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of principals'],word,Shareholders Resolutions - Removing Director,True
+179,63d402154b7b9c60682735f3,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of principals'],word,Shareholders Resolutions - Change Director Number,True
+180,644c03094e964a0d62eeb571,[],[],word,directorsAnnualsUS,True
+181,645c0923a81f80392f72943a,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Annual Compliance'],word,Annual Consent of Directors,True
+182,6464f4b8053f382ab4b83680,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Annual Compliance'],word,Notice of Annual Meeting of Directors,True
+183,65fb4c3c30e84a1013381204,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Formation'],word,Additional Information Form - Not for Profit Company,True
+184,6615b9a118633d1f15569896,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Merge / Amalgamate'],word,Form 6 - Articles of Amalgamation,True
+185,640925e1de8d050bf3a4a9a4,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Formation'],word,Preincorporation Agreement and Acknowledgement,True
+186,646ea1c849f6c00d6bcb5cf7,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Summaries'],word,Entity Summary,True
+187,6595e7eb8569fcbd09f3b7ea,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Change of principals', 'Registration Compliance']",word,Form 29 - Notice of Change of Directors (EP),True
+188,65a04f549aa30f106f9a444d,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Dissolve'],word,Form 11 - Articles of Dissolution,True
+189,63b5fa6139752d020d3b3310,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Receipt of Eligible Dividend,True
+190,65aef8d565bff40f319db3bc,"[{'country': 'Cayman Islands', 'name': 'Cayman Islands', 'region': ''}]","['Principals', 'Summaries']",word,Register of Members,True
+191,65b2f66b551fee99b371c0f8,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Change of principals', 'Continuance', 'Revival']",word,Form 47 - Notice of Change of Directors,True
+192,65cfd3d7e8d3dad48a759e1a,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Registration Compliance'],word,Additional Information Form - Business Name Registration,True
+193,65de055ae50dcfff6ea08805,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Registration Compliance'],word,Form 35 - Application for Reinstatement,True
+194,63b4c160b6e6b354f281f126,[],"['Organizational', 'Share transactions']",word,Directors Resolutions - Redemption,True
+195,63b4c0137d37446e135a0fee,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Offer of Repurchase,True
+196,63c1bdcbd24cff0d5e907467,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Directors Resolutions - Repurchase,True
+197,6406147aea4d1b0bf9c23b43,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Formation'],word,Confidentiality Agreement,True
+198,644c136dff80190d6af8b24b,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['Organizational', 'Share transactions']",word,Directors Resolutions - Retraction,True
+199,644c4e844e964a0d62ef225c,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Organizational'],word,Joint Organizational Actions - Written Consent,True
+200,640615ee8516140beeddcddc,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Organizational'],word,Resolution Of Directors Designating Bank,True
+201,645c0cb7a81f80392f729512,[],[],word,ManitobaConfig,True
+202,65d7cb75bcd88a0feeb0aeaa,"[{'country': 'Cayman Islands', 'name': 'Cayman Islands', 'region': ''}]",['Principals'],word,Register of Directors and Officers,True
+203,63b5a02739752d020d3afbbd,[],['Share transactions'],word,Basic Cap Table,True
+204,63d8033c9ae94d39f24bae31,[],['Share transactions'],word,Transfer Register,True
+205,63d81d3a694de63644343438,[],[],word,votingShareholderResTitle,True
+206,63e6a9536f61630d77ee1f8d,[],[],word,CA_FED_FR_configV3,True
+207,63ea6d0df6c5e90ebe70d584,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Formation'],word,Certificate of Incorporation Letter (DE),True
+208,6406116b0190170bf1fcc870,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Formation'],word,"Shareholders Agreement, Share Transfer Restrictions and Buy-Sell Agreement",True
+209,644c4d174e964a0d62ef2250,[],[],word,AllShareholdersandDirectorsConfirmedUS,True
+210,644c52c04e964a0d62ef226d,[],[],word,attestSecretaryBlankUS,True
+211,6464f4b95afade26b0c45bfb,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Organizational', 'Share transactions', 'Shareholders']",word,Subscription Agreement - Short,True
+212,648368d2dd5ab30d654f7a29,"[{'country': 'Australia', 'name': 'Australia', 'region': ''}]",[],word,ausConfig,True
+213,659c6e960bd13000d8149aa0,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Registration Compliance', 'Formation']",word,LP - Form 1 - Declaration of Limited Partnership,True
+214,65a947cc25c3244829f93d00,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Annual Compliance', 'Revival']",word,Form 24.3 - Annual Return,True
+215,65a9482725c3244829f93d08,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Registration Compliance', 'Registrations']",word,Form 33.1 - Annual Return (EP),True
+216,65d7cb74d7fa839abd9da152,"[{'country': 'Cayman Islands', 'name': 'Cayman Islands', 'region': ''}]",['Summaries'],word,Register of Mortgages and Charges,True
+217,63d8033c1c39a5363fce2701,[],['Share transactions'],word,Transfer Register (All Classes),True
+218,63d81d3a8e581236431c6eff,[],[],word,shareholderResTitle,True
+219,644c4b6d1840895f9b08c635,[],[],word,votingShareholdersOnlyAnnualsUS,True
+220,645c0a0cb6e4c17c00a7bdb7,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Organizational'],word,Unanimous Written Action of Board of Directors Approving Agreement,True
+221,655bd449f3fe95f5af6e8bbb,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Annual Compliance', 'Change of principals', 'Continuance', 'Formation', 'Organizational', 'Merge / Amalgamate']",word,Form 4 - Notice of Directors,True
+222,6578a5d4a0fd281027a9bc7f,[],[],word,configIL,True
+223,65b2f77c551fee99b371c0fb,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Continuance'],word,Application to Continue to Another Jurisdiction,True
+224,63c1938419b12c0d5634f8b0,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Directors Resolutions - Share Issuance,True
+225,644c08ed05671a0d53e732a3,[],[],word,directorsConfirmedUS,True
+226,645c0b29a81f80392f7294bc,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Formation', 'Organizational']",word,By-Laws,True
+227,65a9472d74f18c482f86c1aa,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Formation'],word,Form 1 - Articles of Incorporation,True
+228,65d7b7a4bcd88a0feeb0acb8,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Change of Company Name'],word,Form 32.1 - Notice of Change of Name (EP),True
+229,63e54cfd17b91d0d8978d512,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Share Certificate B Specimen,True
+230,645c05a9a81f80392f72929f,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Change of principals'],word,Resignation,True
+231,6532fbb7c7df8511c09fcc34,[],[],word,configNL,True
+232,6595ecca8569fcbd09f3bb37,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Annual Compliance'],word,Shareholders Resolutions - Financials and Auditor,True
+233,65a9487c25c3244829f93d10,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Registration Compliance'],word,Form 28 - Notice of Change of Principal Office (EP),True
+234,63b5a13c39752d020d3afbea,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Share Certificate A,True
+235,63b87b9571a7a10d65510f23,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of principals'],word,Shareholders Resolutions - Approve Director Changes,True
+236,63bc31b2d0cbab0d6411e59a,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Shareholders Resolutions - Approving Sale of Shares,True
+237,63bf42fcd06eaf0d64f5593c,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Directors Resolutions - Eligible Dividends,True
+238,63d402150aa39564e4c104ce,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Instrument of Transfer,True
+239,63d81d3a694de6364434343a,[],[],word,nonVotingShareholderResTitle,True
+240,6464f4b93baf2429733a8ba9,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Annual Compliance', 'Organizational']",word,Notice of Special Meeting of Directors,True
+241,64a727cf124f996434e81f9c,[],[],word,QC_config,True
+242,63b5a2cf7fabcf61bae2bc25,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Share Certificate B,True
+243,64061a80ea4d1b0bf9c25309,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Organizational', 'Share transactions']",word,Subscription Agreement Among Several Subscribers,True
+244,645c06e7a81f80392f729340,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Change of principals'],word,Consent to Act as Director,True
+245,6464f4b8faa6512ab54cc443,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Organizational'],word,Directors Initial Action,True
+246,6464f4b9559a1626b1154b2a,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Annual Compliance', 'Organizational']",word,Notice of Special Meeting of Shareholders,True
+247,6474d94649f6c00d6bcc4c62,"[{'country': 'USA', 'name': 'Delaware - United States of America (USA)', 'region': 'Delaware'}]",[],word,Delaware_config,True
+248,64d2bd7172902b0d68eae2ec,"[{'country': 'Canada', 'name': 'Canada (Federal)', 'region': 'Canada (Federal)'}]","['Annual Compliance', 'Change of principals']",word,Form 4006 - Changes Regarding Directors,True
+249,64d553a2ba85b8066bc82492,[],[],word,configAB,True
+250,65f36287eb357848605f7ac4,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Merge / Amalgamate'],word,Additional Information Form - EP Amalgamation,True
+251,63bf42fc1d7f8f0d5461a6db,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Directors Resolutions - Cash Dividends,True
+252,644c084f2001980d5b70b75d,[],[],word,incorporatorsTSKUS,True
+253,644c418b8f75e90d5184add4,[],[],word,allShareholdersandDirectorsAnnualsUS,True
+254,64529fb98f75e90d51858f5a,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Annual Compliance', 'General', 'Summaries']",word,Beneficial Ownership Summary,True
+255,659c6dd506d09e00b99e5965,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Registration Compliance', 'Merge / Amalgamate', 'Change of Agents']",word,Form 25 - Appointment of Attorney for Service (EP),True
+256,65a04f541ac22e1069d494c7,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Registration Compliance', 'Merge / Amalgamate']",word,Form 26 - Statement of Registration (EP),True
+257,65f87c386c5b5f1011faa9c0,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Revival'],word,Form 10 - Articles of Revival,True
+258,63e2d6ab1807100d80ce69c7,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Formation'],word,Action by Incorporators,True
+259,6406181bdee1d759e4250acf,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Annual Compliance'],word,Annual Consent of Shareholders,True
+260,644c476b4e964a0d62ef2238,[],[],word,votingShareholdersOnlyUS,True
+261,645c0765a81f80392f729366,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Annual Compliance'],word,Annual Consent of Shareholders and Directors,True
+262,64d55e774d0767066c1302db,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,Indemnity Agreement,True
+263,64dd4367b809d430da46aaaa,[],[],word,configBC,True
+264,655531a191b036b5a83129cc,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['Change of principals', 'Organizational']",word,Consent to Act as Director,True
+265,6595e7eb4abf5dbd0fc16455,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Annual Compliance', 'Change of principals', 'Registration Compliance']",word,Form 29 - Notice of Change of Directors (EP) - BLANK,True
+266,65a04f541ac22e1069d494c5,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Annual Compliance', 'Revival']",word,Form 35.1 - Annual Return (Nonprofit),True
+267,65a04f551ac22e1069d494c9,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Continuance'],word,Form 7 - Articles of Continuance,True
+268,65f364130d8062a28f67487b,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Registration Compliance'],word,Additional Information Form - EP Registration,True
+269,65fb4c3c019cba101260af81,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Registration Compliance'],word,Additional Information Form - Exemption of EP,True
+270,63d40215347d7663a8bed8f0,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Change of principals'],word,Directors Resolutions - Fill Vacancy,True
+271,63ed11793899f80d83049cf2,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]","['Organizational', 'Share transactions']",word,Share Subscription,True
+272,644c4d5c4e964a0d62ef2254,[],[],word,allShareholdersAnnualsUS,True
+273,655bd4f70d7fecf5b075f599,[],[],word,configWordNB,True
+274,6578948b14db1710233cc510,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Registre des valeurs mobilieres,True
+275,65a9479825c3244829f93cfd,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Continuance', 'Formation', 'Merge / Amalgamate', 'Change of Shared Address']",word,Form 2 - Notice of Registered Office or Notice of Change of Registered Office,True
+276,65b7e7fbacd9d913ec2f39ac,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Principals'],word,ISC Register,True
+277,65cfd4d1e8d3dad48a759e34,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Continuance'],word,Additional Information Form - Continuance,True
+278,65d7ba89bcd88a0feeb0ad0c,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Change of Shared Address', 'Change of Profile Address']",word,Form 46 - Notice of Change of Head Office (NFP),True
+279,65e24739af16be0fc3937c2f,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Registration Compliance'],word,Form 6 - Cessation of Business Name,True
+280,65f364bb0d8062a28f674887,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Change of Company Name'],word,Additional Information Form - Business Name Renewal,True
+281,65fb57c7019cba101260b0c5,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Revival'],word,Application for Revival of a Company,True
+282,63b4c402c6a6175e22fb7a30,"[{'country': 'Canada', 'name': 'Canada', 'region': ''}]",['Share transactions'],word,Registres individuels des actionnaires,True
+283,63e2d6ab186d0f0d8c8846b9,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Formation'],word,Operating Agreement LLC,True
+284,64091d56304c830d2ebf024f,"[{'country': 'USA', 'name': 'USA', 'region': ''}]","['Formation', 'Organizational']",word,Certificate of Incorporation,True
+285,6464f4b9e71d9b2b537765fc,"[{'country': 'USA', 'name': 'USA', 'region': ''}]",['Annual Compliance'],word,Notice of Annual Meeting of Shareholders,True
+286,65a04f559aa30f106f9a444e,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Merge / Amalgamate'],word,Form 30 - Statement of Amalgamation (EP),True
+287,66468b90fe823934b56f08ed,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Registration Compliance', 'Change of Agents']",word,Form 7 - Certificate of Appointment or Change of Agent for Service,True
+288,6647d572043e1b5fe6a63cd6,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Registration Compliance', 'Merge / Amalgamate']",word,Form 25.1 - Consent to Act as Attorney for Service (EP),True
+289,66705a8863aba23a31a8558f,"[{'country': 'Canada', 'name': 'Ontario - Canada', 'region': 'Ontario'}]","['Annual Compliance', 'Initial Return', 'Notice of Change']",word,"5284E CIA - Initial Return, Notice of Change, Annual Return by an Ontario Corporation",True
+290,66999f093a178210d3c22323,[],[],word,configABNew,True
+291,669ef5624bdee410b23c90a2,[],[],word,configWordAB,True
+292,669ef5ad4bdee410b23c90ae,"[{'country': 'Canada', 'name': 'Alberta - Canada', 'region': 'Alberta'}]",['Formation'],word,REG3047 Articles of Incorporation,True
+293,66a7d70d688ac9be872f1cec,"[{'country': 'Canada', 'name': 'Alberta - Canada', 'region': 'Alberta'}]","['Change of principals', 'Continuance', 'Formation', 'Organizational', 'Merge / Amalgamate']",word,REG3017 Notice of Directors,True
+294,66bbdc069ef7ff66446d05f7,"[{'country': 'Canada', 'name': 'Canada (Federal)', 'region': 'Canada (Federal)'}]",['Change of principals'],word,Form 6 - Changes regarding directors,True
+295,66bfb9801ad6c811037cd9e6,"[{'country': 'Canada', 'name': 'Alberta - Canada', 'region': 'Alberta'}]",['Change of principals'],word,REG3220_Notice of Change of Address of Directors,True
+296,66c8ac8af258ef3c3db83c73,"[{'country': 'Canada', 'name': 'Alberta - Canada', 'region': 'Alberta'}]","['Change of principals', 'Continuance', 'Registration Compliance', 'Formation', 'Merge / Amalgamate', 'Change of Agents']",word,REG3037 Notice of Agent for Service,True
+297,66c90f66c371413c61ab88f0,[],"['Registration Compliance', 'Formation']",word,Form 5 - Certificate of Business Name or Certificate of Renewal of Business Name,True
+298,66d1d5750d64001159162b07,[],[],word,configWordBC,True
+299,66d1d5ef0d64001159162b27,"[{'country': 'Canada', 'name': 'British Columbia - Canada', 'region': 'British Columbia'}]",['Change of principals'],word,Form 10 - Director Change,True
+300,6744b970bff6a03bc52c8c4e,[],[],word,addressHomeMailingCompareRegOfficeSub,True
+301,6744c83e09f56eefbdc1debf,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Registration Compliance'],word,Form 37 - Notice of Continuance (EP),True
+302,6744d10bd6e48ca81f4324da,[],[],word,addressOperatingOrProfileBusinessHeadOfficeSub,True
+303,67452cd6bff6a03bc5477980,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Annual Compliance', 'Formation']",word,Form 1 - Certificate of Partnership or Certificate of Renewal of Partnership,True
+304,674551c3d6e48ca81f5517a3,[],['Change of principals'],word,Form 2 - Certificate of Change of Membership of Partnership,True
+305,674e4e83fe8983a6264e6901,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Amendments', 'Registration Compliance']",word,Form 2 - Declaration of Change of Limited Partnership,True
+306,6752267c05d6c15b4b99d0d9,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['General'],word,Form 7.1 - Certificate of Designation,True
+307,675337f9ca6655eb0eaffe07,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['Amendments'],word,Form 5 - Restated Articles of Incorporation,True
+308,675712c68c42ee0cc9df156b,"[{'country': 'Canada', 'name': 'Canada (Federal)', 'region': 'Canada (Federal)'}]","['Annual Compliance', 'Change of principals']",word,Form 4006 - Avis (changement concernant les administrateurs),True
+309,675b175f5a5b3774909a6d3b,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]",['General'],word,Form 7.2 Certificate of Cancellation of Designation,True
+310,675b849d5a5b377490b0ebc3,"[{'country': 'Canada', 'name': 'New Brunswick - Canada', 'region': 'New Brunswick'}]","['Registration Compliance', 'Dissolve']",word,Form 6 - Declaration of Withdrawal Extra-Provincial Limited Partnership,True
+311,678846116d0827df1dbb0b58,[],"['Annual Compliance', 'Amendments', 'General', 'Change of principals', 'Change of Company Name', 'Continuance', 'Registration Compliance', 'Formation', 'Organizational', 'Share transactions', 'Principals', 'Registrations', 'Non-stock dividends', 'Merge / Amalgamate', 'Dissolve', 'Revival', 'Summaries', 'Change of Address', 'Initial Return', 'Notice of Change', 'Change of Agents', 'Change of Shared Address', 'Change of Contacts', 'Change of Other Professionals', 'Responsible professionals', 'Agents', 'Contacts', 'Shareholders', 'Committees', 'Shared Addresses', 'Other Professionals', 'Change of Profile Address']",word,templatesReport,True
